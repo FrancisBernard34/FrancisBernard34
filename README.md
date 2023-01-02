@@ -1,5 +1,5 @@
 # 💫 Hi, i'm Francis
-🎓 I'm a Web Developer<br>🏢 I am currently working at the INSS (National Institute of Social Security) as an intern<br>🗺️ I'm always looking to learn new things and help people through technology<br>🧩 There's always a problem to be solved, I'm here for it<br>⚡Fun Fact: pizza time!
+### 🎓 I'm a Web Developer<br>🏢 I am currently working at the INSS (National Institute of Social Security) as an intern<br>🗺️ I'm always looking to learn new things and help people through technology<br>🧩 There's always a problem to be solved, I'm here for it<br>⚡Fun Fact: pizza time!
 
 
 ## 🌐 Socials:
