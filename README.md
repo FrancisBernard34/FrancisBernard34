@@ -1,5 +1,8 @@
-# 💫 About Me:
-💫 Hi, i'm Francis<br>🎓 I'm a Web Developer<br>🗺️ I'm always looking to learn new things and help people through technology<br>🧩 There's always a problem to be solved, I'm here for it<br>⚡Fun Fact: pizza time!
+# 💫 Hi, i'm Francis<br>
+### 🎓 I'm a Web Developer<br>
+### 🗺️ I'm always looking to learn new things and help people through technology<br>
+### 🧩 There's always a problem to be solved, I'm here for it<br>
+### ⚡Fun Fact: pizza time!
 
 
 ## 🌐 Socials:
