@@ -45,7 +45,7 @@
 <img alt="coffee image" height="200px" src="./assets/coffee.gif" />
 <br/>
 
-###🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrancisBernard34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
