@@ -1,6 +1,6 @@
 <a href="https://github.com/FrancisBernard34">![FrancisBernard34 Profile GIF](./assets/profile_top.gif)</a>
 
-### I'm [Francis Bernard](https://francisbernard.me/) - Software Engineer
+### I'm Francis Bernard - Software Engineer
 
 - 🎓 Currently working on web development technologies JavaScript, React, Node, Tailwind etc.
 - 🗺️ I'm always looking to learn new things and help people through technology
