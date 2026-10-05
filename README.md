@@ -21,6 +21,7 @@ I build modern, scalable web applications end-to-end. Check out my [portfolio](h
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[timelined](https://timelined.vercel.app)** ([code](https://github.com/FrancisBernard34/timelined)) | Full-stack timeline planner: monthly periods and weekly task schedules, backed by a validated REST API | Next.js, TypeScript, PostgreSQL, Prisma, Zod, Playwright |
 | **[Portfolio Website](https://francis-bernard-portfolio.vercel.app/)** ([front-end](https://github.com/FrancisBernard34/Portfolio-Front-End) · [API](https://github.com/FrancisBernard34/Portfolio-API)) | My personal site with an admin dashboard and JWT auth | Next.js, NestJS, Prisma, MongoDB, Docker, AWS |
 | **[authon-stock-notifier](https://github.com/FrancisBernard34/authon-stock-notifier)** | Stock monitoring API with automated WhatsApp/email alerts | Python, FastAPI, SQLAlchemy, Alembic |
 | **[saturno-notes-api](https://github.com/FrancisBernard34/saturno-notes-api)** | Notes REST API with authentication and file uploads | Node.js, Express, Knex, SQLite, JWT, Jest |
